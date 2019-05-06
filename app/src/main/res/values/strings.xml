@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">android_demo_intent</string>
+    <string name="app_btn_act_1">Activity_1</string>
+    <string name="app_btn_act_2">Activity_2</string>
+    <string name="app_finish">finish</string>
+    <string name="app_input_here">Input Here</string>
+    <string name="app_confirm">confirm</string>
+    <string name="app_broadcast">Broadcast exp</string>
+    <string name="app_send">send</string>
+    <string name="app_send_msg">send broadcast message</string>
+    <string name="string_result">result display here</string>
+    <string name="app_text">text</string>
+</resources>
